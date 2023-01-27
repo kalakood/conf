@@ -1,3 +1,4 @@
+cat << EOF > ~/.screenrc
 shelltitle ""
 escape ^kk
 startup_message off
@@ -8,3 +9,5 @@ bind h focus left
 bind l focus right
 caption always "%{0}<<<%n:%t>>>"
 rendition so "="
+EOF
+

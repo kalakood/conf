@@ -1,6 +1,5 @@
-# curl -s https://raw.githubusercontent.com/kalakood/conf/main/screen_ext.sh | bash -s
+# curl -s https://raw.githubusercontent.com/kalakood/conf/main/screen_ext.sh | bash -s name
 cat << EOF > ~/.screenrc
-
 shelltitle ""
 escape ^ll
 startup_message off

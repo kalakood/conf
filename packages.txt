@@ -1,0 +1,7 @@
+vim
+screen
+curl
+wget
+net-tools
+busybox
+telnet
